@@ -9,6 +9,7 @@ cd ~/.vim/bundle
 git clone https://github.com/scrooloose/nerdtree.git
 git clone https://github.com/jistr/vim-nerdtree-tabs.git
 git clone https://github.com/Chiel92/vim-autoformat.git
+git clone https://github.com/darfink/vim-plist.git
 cd ~/.vim/colors
 wget https://raw.githubusercontent.com/sickill/vim-monokai/master/colors/monokai.vim
 wget https://raw.githubusercontent.com/cyl19910101/i-vim/master/.vimrc -O ~/.vimrc
