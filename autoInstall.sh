@@ -1,6 +1,6 @@
 #!/bin/bash
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-brew install git node autojump wget mongodb vim tmux
+brew install git autojump wget vim tmux ranger
 git clone git://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh
 wget https://raw.githubusercontent.com/sjl/oh-my-zsh/master/themes/prose.zsh-theme -O ~/.oh-my-zsh/themes/prose.zsh-theme
 wget https://raw.githubusercontent.com/cyl19910101/i-omzsh/master/.zshrc -O ~/.zshrc
